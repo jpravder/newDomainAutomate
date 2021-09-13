@@ -1,0 +1,12 @@
+{
+  "base_url": "/",
+  "hostname": "localhost",
+  "notebook_dir": "/home/jprav/OTX-Python-SDK",
+  "password": false,
+  "pid": 220,
+  "port": 8888,
+  "secure": false,
+  "sock": "",
+  "token": "d9f2477e48b63450c6799511ec2e4aab00c7740c55d55312",
+  "url": "http://localhost:8888/"
+}
